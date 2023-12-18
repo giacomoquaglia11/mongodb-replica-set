@@ -1,0 +1,1 @@
+mongodb://mongouser:mongopassword@giacomo-quaglia-1.northeurope.cloudapp.azure.com:27017,giacomo-quaglia-2.northeurope.cloudapp.azure.com:27017,giacomo-quaglia-3.northeurope.cloudapp.azure.com:27017/?replicaSet=rs0
