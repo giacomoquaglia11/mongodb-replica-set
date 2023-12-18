@@ -18,7 +18,7 @@ Expectations:
 - The Virtual Machines configurations will be performed through bash script/s to run after the Cloud Resources provisioning
   - The Terraform "remote-exec" provider or other solutions can be used to execute the script/s
     - In order to don't wast time, it's recommended to do not follow this approach for testing, but only as last step when everything is working
-- The work, to be considered done, should be pushed in the git repository tutoring_giacomo-quaglia_terraform-001
+- The work, to be considered done, should be pushed in the git repository "tutoring_giacomo-quaglia_terraform-001"
   - branch name: "tickets/<current_ticket_id>"
   - in the root directory should be present:
     - the Terraform code
@@ -26,3 +26,6 @@ Expectations:
     - the Mongo-DB setup scripts
     - a file with the Mongo Dump command
     - a file with the Mongo Replica Set connection string to use
+
+![tickets-SXPDEVOG-458](https://github.com/giacomoquaglia11/mongodb-replicaset/assets/153645847/1f509e2d-ede4-4119-94f2-830244def291)
+
